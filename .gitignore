@@ -2,3 +2,4 @@ hansard-speeches-v310.csv.zip
 parliamentary_posts.json
 *.pkl
 .ipynb_checkpoints/
+*.png
