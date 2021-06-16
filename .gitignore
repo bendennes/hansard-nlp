@@ -4,3 +4,4 @@ parliamentary_posts.json
 *.pkl
 .ipynb_checkpoints/
 *.png
+*.html
