@@ -1,3 +1,7 @@
+topic_model_testing/
+topic-models/
+topic labeller.ipynb
+exploring_MPs.ipynb
 hansard-speeches-v310.csv.zip
 archived_code.ipynb
 parliamentary_posts.json
@@ -5,4 +9,3 @@ parliamentary_posts.json
 .ipynb_checkpoints/
 *.png
 *.html
-topic-models/
